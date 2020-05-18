@@ -17,6 +17,8 @@ OOP(Object Oriented Programming)
 
 ### professor
 
+![professor](https://user-images.githubusercontent.com/55343124/82242445-d06ab200-9978-11ea-9cd9-b14cafd076f2.png)
+
 #### UI구성
 * 엔터를 치면 개인정보를 입력하는 화면이 출력됩니다.
 * 이름, 개설하고자 하는 미팅룸 번호(정수)

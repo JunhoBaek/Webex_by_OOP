@@ -10,7 +10,7 @@ OOP(Object Oriented Programming)
 
 ## webex_by_c++ 사용 메뉴얼
 프로그램을 실행하면 다음과 같은 창이 출력
-
+![시작화면](https://user-images.githubusercontent.com/55343124/82242271-8a155300-9978-11ea-9f6d-a88454960d58.png)
 사용자가 professor인 경우 0을 입력 후 엔터, student인 경우 1을 입력 후 엔터를 하면 다음 화면으로 넘어갑니다.
 
 ### professor

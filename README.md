@@ -40,6 +40,8 @@ OOP(Object Oriented Programming)
 
 ### student
 
+![student](https://user-images.githubusercontent.com/55343124/82242497-e7a99f80-9978-11ea-829f-9a3cc3e415d0.png)
+
 #### UI구성
 * 자신이 듣고자 하는 수업의 담당 교수님의 이름 입력 외에는 professor 접속 방식과 같습니다.(기본적인 방법은 professor section 참조)
 
